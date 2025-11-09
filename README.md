@@ -7,6 +7,8 @@ It focuses on the OrangeHRM demo login page — covering functional, UI, and val
    (https://1drv.ms/v/c/424c1bec95ed3764/EfPkplRXlrVKrtjZFFkXJhsBpC_Xr9ZUP1VqdfMHbjKEog?e=bd1zNb)
 
 📁 View Zephyr Test Execution Summary Report. 
+(./Zephyr_Test_Execution_Summary_Report/Test execution summary report.pdf)
     
+
 
 
