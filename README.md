@@ -5,10 +5,8 @@ It focuses on the OrangeHRM demo login page — covering functional, UI, and val
 
 🎥 Watch Jira + Zephyr Testing Walkthrough. 
    (https://1drv.ms/v/c/424c1bec95ed3764/EfPkplRXlrVKrtjZFFkXJhsBpC_Xr9ZUP1VqdfMHbjKEog?e=bd1zNb)
-
-📁 View Zephyr Test Execution Summary Report. 
-(https://github.com/rasiq-mv/OrangeHRM-Login-Testing-Jira-Zephyr/blob/main/Zephyr_Test_Execution_Summary_Report/Test%20execution%20summary%20report.pdf)
     
+
 
 
 
